@@ -1,0 +1,6 @@
+{
+  "name": "Student Expense Tracker",
+  "description": "A mobile-first student expense tracker app to record daily expenses, track custom categories, view monthly summaries, set student budgets, and visualize spending habits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
